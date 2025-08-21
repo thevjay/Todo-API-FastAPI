@@ -1,0 +1,2 @@
+# sqlalchemy queries 
+# fastapi sqlalchemy
